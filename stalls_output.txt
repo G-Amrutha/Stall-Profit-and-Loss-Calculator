@@ -1,0 +1,25 @@
+Stall name	| Net Income
+---------------	|-----------
+Games		|1300
+Drinks		|1000
+Music		|500
+Toys		|-100
+Clothes		|-500
+Sweets		|-600
+
+The number of stalls in the bazaar were 6
+
+Total profit of bazaar is 1600
+
+Stalls Which Made Profits: 
+Games
+Drinks
+Music
+
+The stall with most profit is Music
+
+Stalls Which Made Profit In Increasing Order Of Profit:
+Music
+Drinks
+Games
+
